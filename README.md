@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=butis498" alt="butis498" /></a> </p>
 
-- 🔭 I’m currently working on **Automatic caption genetarot**
+- 🔭 I’m currently working on **Automatic caption generator**
 
 - 🌱 I’m currently learning **R (¡Puaj!)**
 
