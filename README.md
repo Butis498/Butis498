@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Esteban Salazar</h1>
 <h3 align="center">Turning Coffee into Code, Bugs into Features</h3>
 
-<p align="center"> <img src="https://engineering.giphy.com/wp-content/uploads/2021/01/giphy.gif" alt="butis498" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=butis498" alt="butis498" /></a> </p>
-
 - 🔭 I’m currently working on **Automatic caption generator**
 
 - 🌱 I’m currently learning **R (¡Puaj!)**
